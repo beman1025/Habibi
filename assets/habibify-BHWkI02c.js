@@ -17453,7 +17453,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between ",
-                href: "https://t.me/habibi_bep20",
+                href: "https://t.me/HabibionDubai",
                 "aria-label": "telegram",
                 children: [
                   J.jsx("img", {
@@ -17467,7 +17467,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between",
-                href: "https://x.com/habibi_bep20",
+                href: "https://x.com/HabibionDubai",
                 "aria-label": "twitter",
                 children: [
                   J.jsx("img", {
@@ -17481,7 +17481,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between",
-                href: "https://dextools.io/app/en/bnb/pair-explorer/0x4eeD9c7Db5C92d3980CC605860b4B4c0758A7444",
+                href: "https://dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
                 "aria-label": "dextools",
                 children: [
                   J.jsx("img", {
@@ -17495,7 +17495,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between ",
-                href: "https://dexscreener.com/bsc/0x4eeD9c7Db5C92d3980CC605860b4B4c0758A7444",
+                href: "https://dexscreener.com/bsc/0xcomingsoon",
                 "aria-label": "dexscreener",
                 children: [
                   J.jsx("img", {

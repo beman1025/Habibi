@@ -155,7 +155,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
               children: [
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://t.me/habibi_bep20",
+                  href: "https://t.me/HabibionDubai",
                   "aria-label": "telegram",
                   children: [
                     u.jsx("img", {
@@ -168,7 +168,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
                 }),
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://x.com/habibi_bep20",
+                  href: "https://x.com/HabibionDubai",
                   "aria-label": "twitter",
                   children: [
                     u.jsx("img", {
@@ -181,7 +181,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
                 }),
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://dextools.io/app/en/bnb/pair-explorer/0x4eeD9c7Db5C92d3980CC605860b4B4c0758A7444",
+                  href: "https://dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
                   "aria-label": "dextools",
                   children: [
                     u.jsx("img", {
@@ -194,7 +194,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
                 }),
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://dexscreener.com/bsc/0x4eeD9c7Db5C92d3980CC605860b4B4c0758A7444",
+                  href: "https://dexscreener.com/bsc/0xcomingsoon",
                   "aria-label": "dexscreener",
                   children: [
                     u.jsx("img", {
@@ -214,9 +214,9 @@ const et = "/assets/slim1-wadI2gDo.webp",
               children: u.jsx("a", {
                 className:
                   "text-[#E6BE8A] hover:text-[#E6BE8A] hover:opacity-90",
-                href: "https://bscscan.com/token/0x4eeD9c7Db5C92d3980CC605860b4B4c0758A7444",
+                href: "https://bscscan.com/token/0xcomingsoon",
                 target: "_blank",
-                children: "CA: 0x4eeD9c7Db5C92d3980CC605860b4B4c0758A7444",
+                children: "CA: 0xcomingsoon",
               }),
             }),
             u.jsx("div", { className: "scroll-down" }),
