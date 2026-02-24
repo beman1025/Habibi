@@ -2608,7 +2608,7 @@ function xr() {
                   "w-[35%] h-[50%] top-[15%] left-[2%] z-20 text-sm md:text-xl text-left text-[rgb(212,175,55)] drop-shadow-[1px_2px_#000] absolute scroll-slide",
                 children: u.jsx("div", {
                   className: "w-max px-[1rem] bg-green-900 rounded-xl",
-                  children: "100,000,000 $HABIBI",
+                  children: "1,000,000,000 $HABIBI",
                 }),
               }),
               u.jsx("div", {
@@ -2616,7 +2616,7 @@ function xr() {
                   "w-[35%] h-[50%] top-[20%] left-[2%] z-20 text-sm md:text-xl text-left text-[rgb(212,175,55)] drop-shadow-[1px_2px_#000] absolute scroll-slide",
                 children: u.jsx("div", {
                   className: "w-max px-[1rem] bg-green-900 rounded-xl",
-                  children: "LP Burnt",
+                  children: "LP Locked",
                 }),
               }),
               u.jsx("div", {
